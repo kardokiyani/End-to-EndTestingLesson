@@ -1,5 +1,5 @@
 describe("vg", () => {
   it("avis", () => {
-    cy.visit("https://www.vg.no/%22");
+    cy.visit("https://www.vg.no");
   });
 });
